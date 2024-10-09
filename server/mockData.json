@@ -1,0 +1,76 @@
+{
+    "backlog": [
+        {
+            "backlog_item_id": 1,
+            "feature_id": 102,
+            "title": "Backlog item 1",
+            "description": "This is first backlog item discription",
+            "assignee": "user 1",
+            "created_date": "03/09/2024",
+            "status": "In-Progress"
+        },
+        {
+            "backlog_item_id": 2,
+            "feature_id": 103,
+            "title": "Backlog item 2",
+            "description": "This is second backlog item discription",
+            "assignee": "user 3",
+            "created_date": "03/09/2024",
+            "status": "In-Progress"
+        },
+        {
+            "backlog_item_id": 3,
+            "feature_id": 103,
+            "title": "Backlog item 3",
+            "description": "This is third backlog item discription",
+            "assignee": null,
+            "created_date": "03/09/2024",
+            "status": "To-Do"
+        },
+        {
+            "backlog_item_id": 4,
+            "feature_id": 104,
+            "title": "Backlog item 4",
+            "description": "This is fourth backlog item discription",
+            "assignee": "user 1",
+            "created_date": "03/09/2024",
+            "status": "In-Progress"
+        },
+        {
+            "backlog_item_id": 5,
+            "feature_id": 105,
+            "title": "Backlog item 5",
+            "description": "This is fifth backlog item discription",
+            "assignee": "user 1",
+            "created_date": "03/09/2024",
+            "status": "In-Progress"
+        },
+        {
+            "backlog_item_id": 6,
+            "feature_id": 106,
+            "title": "Backlog item 6",
+            "description": "This is sixsth backlog item discription",
+            "assignee": "user 1",
+            "created_date": "03/09/2024",
+            "status": "In-Progress"
+        },
+        {
+            "backlog_item_id": 7,
+            "feature_id": 107,
+            "title": "New Feature",
+            "description": "A description for the new feature",
+            "assignee": "John Doe",
+            "created_date": "2024-10-08",
+            "status": "Open"
+        },
+        {
+            "backlog_item_id": 8,
+            "feature_id": 108,
+            "title": "New Feature",
+            "description": "A description for the new feature",
+            "assignee": "Faisel Mone",
+            "created_date": "2024-10-08",
+            "status": "Open"
+        }
+    ]
+}
