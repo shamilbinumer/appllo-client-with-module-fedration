@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Backlog = () => {
+const BacklogData = () => {
   return (
     <div>
       <h1>this the component from backlog-management</h1>
@@ -8,4 +8,4 @@ const Backlog = () => {
   )
 }
 
-export default Backlog
+export default BacklogData

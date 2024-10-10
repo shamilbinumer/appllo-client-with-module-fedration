@@ -9,7 +9,7 @@ module.exports = {
         name: 'erg_product_backlog_management', 
         filename: 'static/chunks/remoteEntry.js',
         exposes: {
-          './Backlog': './component/backlog.tsx', 
+          './BacklogData': './components/backlog.tsx', 
         },
         remotes: {
           erg_resource_management: `erg_resource_management@http://localhost:3002/_next/static/${isServer ? 'ssr' : 'chunks'}/remoteEntry.js`,

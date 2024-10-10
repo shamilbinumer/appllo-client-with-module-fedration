@@ -3,8 +3,8 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='text-center bg-red-500 w-[100%] h-[70px]'>
-      NAVBAR from shared ui
+    <div className='text-center text-red-500 bg-red-500 w-[100%] h-[70px]'>
+      <h1 className='text-red-600'>NAVBAR from shared ui</h1>
     </div>
   )
 }
